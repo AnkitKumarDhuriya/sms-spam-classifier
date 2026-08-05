@@ -52,7 +52,7 @@ sms-spam-classifier/
 ├── notebooks/
 │   └── EDA.ipynb
 │
-└── output/
+└── outputs/
 ```
 
 ---
