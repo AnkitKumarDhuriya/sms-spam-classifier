@@ -1,5 +1,8 @@
 # 📩 SMS Spam Classifier using Machine Learning
 
+## Live Demo
+https://sms-spam-detector-ai.streamlit.app
+
 ## 📌 Project Overview
 
 This project is a Machine Learning-based web application that classifies SMS messages as **Spam** or **Ham (Not Spam)**. It uses Natural Language Processing (NLP) techniques to preprocess text and a **Linear Support Vector Classifier (LinearSVC)** to classify SMS messages. A simple Streamlit interface allows users to enter an SMS message and instantly check whether it is spam or not.
